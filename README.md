@@ -1,6 +1,7 @@
 # Advanced SQL Course 
 
 Welcome to the **Advanced SQL Course**! This course is designed to help you master advanced SQL concepts through practical exercises and real-world examples. The course is structured over 15 days, with daily lessons and assignments to reinforce the material.
+
 Download MySQL for Win [here](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 
 ## Course Outline
