@@ -5,7 +5,9 @@ Welcome to the **Advanced SQL Course**! This course is designed to help you mast
 ## Course Outline
 
 ### Day 1: Introduction to Advanced SQL
-- **Topics**: [Link] (https://github.com/podko-va/SQL_learning_ADV/blob/main/Day1.ipynb)Recap of basic SQL concepts, Introduction to subqueries, nested queries.
+- **Topics**: 
+  - [Recap of basic SQL concepts](https://github.com/podko-va/SQL_learning_ADV/blob/main/Day1.ipynb)
+  - Introduction to **subqueries** and **nested queries**.
 - **Assignment**: [Day 1 Assignment](link_to_homework_day_1)
 - **Solutions**: [Day 1 Solutions](link_to_solutions_day_1)
 
